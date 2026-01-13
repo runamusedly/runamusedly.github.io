@@ -1,7 +1,7 @@
 title: ".NET On The Road"
 description: "desktop app, writing, etc"
 
-remote_theme: "jekyll/minima@1e8a445"
+theme: minima
 
 plugins:
   - jekyll-remote-theme

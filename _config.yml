@@ -3,5 +3,4 @@ description: "desktop app, writing, etc"
 
 theme: minima
 
-plugins:
-  - jekyll-remote-theme
+
